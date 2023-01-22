@@ -18,8 +18,7 @@ public class Week02Lab {
         // TODO code application logic here
         System.out.println("Hello");
         System.out.println("World");
-        
-        
+        System.out.println("Week02Lab");
         
     }
     
